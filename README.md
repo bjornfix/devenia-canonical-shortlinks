@@ -78,7 +78,7 @@ This is a good fit for:
 
 Start with the public plugin page:
 
-- [Plugin Page](https://devenia.com/plugins/)
+- [Plugin Page](https://devenia.com/plugins/devenia-canonical-shortlinks/)
 
 ## Start Here
 
@@ -119,7 +119,7 @@ GPL-2.0+
 
 ## Links
 
-- [Plugin Page](https://devenia.com/plugins/)
+- [Plugin Page](https://devenia.com/plugins/devenia-canonical-shortlinks/)
 - [GitHub Releases](https://github.com/bjornfix/devenia-canonical-shortlinks/releases)
 - [Devenia Plugins](https://devenia.com/plugins/)
 
