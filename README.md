@@ -2,7 +2,7 @@
 
 Emits canonical permalinks for WordPress shortlink output so scanners and crawlers see the direct 200 URL instead of ?p= redirects.
 
-[![GitHub release](https://img.shields.io/github/v/release/bjornfix/devenia-canonical-shortlinks)](https://github.com/bjornfix/devenia-canonical-shortlinks/releases)
+[![Release 1.0.0](https://img.shields.io/badge/release-1.0.0-blue.svg)](https://downloads.devenia.com/devenia-canonical-shortlinks.zip)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
 [![WordPress](https://img.shields.io/badge/WordPress-6.9%2B-blue.svg)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-8.0%2B-purple.svg)](https://php.net)
@@ -78,14 +78,15 @@ This is a good fit for:
 
 Start with the public plugin page:
 
-- [Plugin Page](https://devenia.com/plugins/devenia-canonical-shortlinks/)
+- [Plugin page](https://devenia.com/plugins/canonical-shortlinks/)
+- [Stable plugin download](https://downloads.devenia.com/devenia-canonical-shortlinks.zip)
 
 ## Start Here
 
 If you are new to the plugin, use this order:
 
 1. Read the plugin page
-2. Download the latest release
+2. Download the stable plugin package
 3. Install it on WordPress
 4. Verify the expected behavior
 5. Keep it active if the behavior matches the site
@@ -104,10 +105,6 @@ If you are new to the plugin, use this order:
 
 - Initial release.
 - Filters WordPress shortlink output to canonical post permalinks.
-
-## Contributing
-
-PRs welcome. Keep changes focused on the plugin's stated WordPress maintenance behavior.
 
 ## License
 
