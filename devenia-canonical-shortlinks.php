@@ -3,6 +3,8 @@
  * Plugin Name: Devenia Canonical Shortlinks
  * Description: Emits canonical permalinks for WordPress shortlink output so scanners and crawlers see the direct 200 URL instead of ?p= redirects.
  * Version: 1.0.0
+ * Requires at least: 6.0
+ * Requires PHP: 7.4
  * Author: basicus
  * Author URI: https://profiles.wordpress.org/basicus/
  * License: GPL-2.0-or-later
